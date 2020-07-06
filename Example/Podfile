@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ShortVideo_Example' do
+  pod 'ShortVideo', :path => '../'
+
+  target 'ShortVideo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
