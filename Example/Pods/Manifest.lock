@@ -1,0 +1,16 @@
+PODS:
+  - ShortVideo (0.1.0)
+
+DEPENDENCIES:
+  - ShortVideo (from `../`)
+
+EXTERNAL SOURCES:
+  ShortVideo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ShortVideo: effdca5aa2a1e451734832a587b13d98b0c9d9e7
+
+PODFILE CHECKSUM: fbe830872183793878e39511c5069946be33e912
+
+COCOAPODS: 1.7.5
